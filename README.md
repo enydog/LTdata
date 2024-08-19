@@ -36,4 +36,4 @@ Pace,mmol,STRYD,Pace (s/km)
 03:15,7.2,340,195
 03:11,10.5,360,191
 
-
+![Análisis de Lactato](chart.png)
