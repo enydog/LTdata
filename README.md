@@ -21,6 +21,8 @@ Este proyecto:
 - `runner1.csv`: Archivo CSV con los datos de ritmo (en segundos por kilómetro) y concentración de lactato (mmol/L).
 - `análisis_lactato.py`: Script que realiza el análisis de la curva de lactato y genera visualizaciones de los umbrales, tasa de cambio y curvatura.
 
+![Análisis de Lactato](image.png)
+
 ## Estructura del CSV
 
 El archivo CSV debe tener la siguiente estructura:
@@ -36,4 +38,3 @@ Pace,mmol,STRYD,Pace (s/km)
 03:15,7.2,340,195
 03:11,10.5,360,191
 
-![Análisis de Lactato](chart.png)
