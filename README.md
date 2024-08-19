@@ -26,10 +26,14 @@ Este proyecto:
 El archivo CSV debe tener la siguiente estructura:
 
 ```csv
-Pace (s/km),mmol
-Pace (s/km),mmol
-320,2.1
-300,2.5
-280,3.0
-260,3.8
-...
+Pace,mmol,STRYD,Pace (s/km)
+05:00,1.8,220,300
+04:40,2.0,240,280
+04:20,2.3,260,260
+04:00,3.1,280,240
+03:55,3.6,300,235
+03:35,4.2,320,215
+03:15,7.2,340,195
+03:11,10.5,360,191
+
+
