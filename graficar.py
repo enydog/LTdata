@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Cargar los datos desde el archivo CSV proporcionado
-csv_path_new = 'FozzaLT_run.csv'
+csv_path_new = 'runner1.csv'
 df_run_new = pd.read_csv(csv_path_new)
 
 # Convertir la columna Pace (que está en formato min/km) a segundos por kilómetro
